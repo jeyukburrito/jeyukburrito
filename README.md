@@ -1,4 +1,4 @@
-## Hi there, I'm Yoonjong! 👋
+# Hi there, I'm Yoonjong! 👋
 
 📖 소개 (About Me)
 -
