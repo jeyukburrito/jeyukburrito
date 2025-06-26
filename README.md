@@ -19,7 +19,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white)
 
 🚀 주요 프로젝트(Featured Projects)
 -  
