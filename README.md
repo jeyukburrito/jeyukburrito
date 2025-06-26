@@ -41,4 +41,4 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 -
 - 📧 Email: yooyoon97@gmail.com
 - 🗒️ [Velog](https://velog.io/@jeyukburrito/posts)
-
+- 💼 [Linkedin](https://www.linkedin.com/in/%EC%9C%A4%EC%A2%85-%EC%9C%A0-4228a722a/)
