@@ -7,7 +7,7 @@
 🛠 기술 스택(Tech Stack)
 -
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R]([https://img.shields.io/badge/-R-276DC3?style=flat&logo=r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=mysql)
 ![Tableau](https://img.shields.io/badge/-Tableau-005A9C?style=flat&logo=tableau)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
