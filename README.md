@@ -2,6 +2,8 @@
 
 데이터 분석가로 성장하기 위해 데이터 분석과 데이터 사이언스 분야의 다양한 프로젝트를 통해 인사이트 도출 역량을 키워가고 있습니다.
 
+Currently seeking my first role as a data analyst, I’m honing my ability to derive insights through a variety of projects in data analysis and data science.
+
 🛠️ 기술 스택(Tech Stack)
 -
 
