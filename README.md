@@ -30,8 +30,7 @@
 
 📈 GitHub 통계
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats)
 
 ✉️ Contact
