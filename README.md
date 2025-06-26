@@ -36,7 +36,7 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jeyukburrito.jeyukburrito)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyukburrito&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ✉️ Contact
