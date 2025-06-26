@@ -36,5 +36,5 @@
 ✉️ Contact
 -
 - 📧 Email: yooyoon97@gmail.com
-- 🗒️ Notion: [your-notion-page]([https://www.notion.so/…](https://terrific-geometry-7b6.notion.site/21b9ab79a8d580b2a095c2cfc448aa42))  
+- 🗒️ Notion: [Notion](https://terrific-geometry-7b6.notion.site/21b9ab79a8d580b2a095c2cfc448aa42)
 
