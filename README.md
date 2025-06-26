@@ -4,7 +4,7 @@
 - 
 - 
 
-🛠 기술 스택(Skills)
+🛠 기술 스택(Tech Stack)
 - 
 - 
 
