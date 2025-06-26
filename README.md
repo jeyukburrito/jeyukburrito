@@ -2,6 +2,7 @@
 
 📖 소개 (About Me)
 -
+
 데이터 분석가로 첫 발을 내디디기 위해 현재 취업을 준비 중이며, 다양한 데이터 분석 및 데이터 사이언스 프로젝트를 통해 인사이트 도출 역량을 쌓고 있습니다.
 
 Currently seeking my first role as a data analyst, I’m honing my ability to derive insights through a variety of projects in data analysis and data science.
@@ -31,6 +32,7 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 
 🚀 주요 프로젝트(Featured Projects)
 -
+
 - [전력 사용량 데이터를 통한 전력 수요 예측 (Power Demand Forecasting)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Power%20Demand%20Forecasting)
 - [구독형 강의 서비스 사용자 로그 데이터 분석 (User log data analysis for a subscription-based lecture service)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/E-Learning%20Service%20Day0%20Churn%20Analysis%20and%20Reengagement%20Strategy)
 - [공유 오피스 사용자 이탈 예측 (User churn prediction for a shared office service)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Shared%20Office%20Free%20Trial%20User%20Revisit%20Prediction)
