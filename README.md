@@ -24,7 +24,7 @@
 
 🚀 주요 프로젝트(Featured Projects)
 -
-- 전력 사용량 데이터를 통한 전력 수요 예측
+- [전력 사용량 데이터를 통한 전력 수요 예측](https://github.com/jeyukburrito/data_analysis_portfoilo/tree/main/Power%20Demand%20Forecasting)
 - 구독형 강의 서비스 사용자 로그 데이터 분석
 - 공유 오피스 사용자 이탈 예측
 
