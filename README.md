@@ -1,10 +1,10 @@
 ## 안녕하세요, 유윤종입니다! 👋
 
-### 📖 소개 (About Me)
+📖 소개 (About Me)
+-
 
-
-### 🛠️ 기술 스택(Tech Stack)
-
+🛠️ 기술 스택(Tech Stack)
+-
 
 #### 🖥️ 프로그래밍 언어
 
@@ -25,10 +25,16 @@
 ![Google BigQuery](https://img.shields.io/badge/google%20bigquery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white)
 
 
-### 🚀 주요 프로젝트(Featured Projects)
-
+🚀 주요 프로젝트(Featured Projects)
+-
 - 전력 사용량 데이터를 통한 전력 수요 예측
 - 구독형 강의 서비스 사용자 로그 데이터 분석
 - 공유 오피스 사용자 이탈 예측
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats)
+
+✉️ Contact
+-
+- 📧 Email: yooyoon97@gmail.com
+- 🗒️ Notion: [your-notion-page]([https://www.notion.so/…](https://terrific-geometry-7b6.notion.site/21b9ab79a8d580b2a095c2cfc448aa42))  
+
