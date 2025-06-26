@@ -1,6 +1,6 @@
 ## 안녕하세요, 유윤종입니다! 👋
 
-데이터 분석가로 성장하기 위해 데이터 분석과 데이터 사이언스 분야의 다양한 프로젝트를 통해 인사이트 도출 역량을 키워가고 있습니다.
+데이터 분석가로 첫 발을 내디디기 위해 현재 취업을 준비 중이며, 다양한 데이터 분석 및 데이터 사이언스 프로젝트를 통해 인사이트 도출 역량을 쌓고 있습니다.
 
 Currently seeking my first role as a data analyst, I’m honing my ability to derive insights through a variety of projects in data analysis and data science.
 
@@ -40,5 +40,5 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 ✉️ Contact
 -
 - 📧 Email: yooyoon97@gmail.com
-- 🗒️ [Notion](https://terrific-geometry-7b6.notion.site/21b9ab79a8d580b2a095c2cfc448aa42)
+- 🗒️ [Velog](https://velog.io/@jeyukburrito/posts)
 
