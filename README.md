@@ -8,7 +8,7 @@
 Currently seeking my first role as a data analyst, I’m honing my ability to derive insights through a variety of projects in data analysis and data science.
 
 
-🛠️ 기술 스택(Tech Stack)
+🛠️ 기술 스택 (Tech Stack)
 -
 
 #### 🖥️ 주요 기술 스택 (Primary Tech Stack)  
@@ -30,7 +30,7 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
-🚀 주요 프로젝트(Featured Projects)
+🚀 주요 프로젝트 (Featured Projects)
 -
 
 - [전력 사용량 데이터를 통한 전력 수요 예측 (Power Demand Forecasting)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Power%20Demand%20Forecasting)
