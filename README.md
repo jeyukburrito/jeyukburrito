@@ -27,7 +27,7 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/google%20bigquery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
 🚀 주요 프로젝트(Featured Projects)
