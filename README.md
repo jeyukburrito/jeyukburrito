@@ -34,8 +34,8 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 -
 
 - [전력 사용량 데이터를 통한 전력 수요 예측 (Power Demand Forecasting)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Power%20Demand%20Forecasting)
-- [구독형 강의 서비스 사용자 로그 데이터 분석 (User log data analysis for a subscription-based lecture service)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/E-Learning%20Service%20Day0%20Churn%20Analysis%20and%20Reengagement%20Strategy)
-- [공유 오피스 사용자 재방문 예측 (Forecasting Next-Day Visits of Shared Office Customers)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Shared%20Office%20Free%20Trial%20User%20Revisit%20Prediction)
+- [구독형 강의 서비스 사용자 로그 데이터 분석 (User log data analysis for a subscription-based lecture service)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/User%20log%20data%20analysis%20for%20a%20subscription-based%20lecture%20service)
+- [공유 오피스 사용자 재방문 예측 (Forecasting Next-Day Visits of Shared Office Customers)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Forecasting%20Next-Day%20Visits%20of%20Shared%20Office%20Customers)
 
 
 📈 GitHub 통계 (Github Statistics)
