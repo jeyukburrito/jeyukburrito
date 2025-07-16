@@ -30,12 +30,9 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
-🚀 주요 프로젝트 (Featured Projects)
+🚀 포트폴리오 (Portfolios)
 -
-
-- [전력 사용량 데이터를 통한 전력 수요 예측 (Power Demand Forecasting)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Power%20Demand%20Forecasting)
-- [구독형 강의 서비스 사용자 로그 데이터 분석 (User log data analysis for a subscription-based lecture service)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/User%20log%20data%20analysis%20for%20a%20subscription-based%20lecture%20service)
-- [공유 오피스 사용자 재방문 예측 (Forecasting Next-Day Visits of Shared Office Customers)](https://github.com/jeyukburrito/data_analysis_portfolio/tree/main/Forecasting%20Next-Day%20Visits%20of%20Shared%20Office%20Customers)
+[Data Analysis Portfolios](https://github.com/jeyukburrito/data_analysis_portfolio)
 
 
 📈 GitHub 통계 (Github Statistics)
