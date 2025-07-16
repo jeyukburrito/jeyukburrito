@@ -30,8 +30,9 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
-🚀 [포트폴리오 (Portfolios)](https://github.com/jeyukburrito/data_analysis_portfolio)
--
+🚀 포트폴리오 (Portfolios)
+- 
+- [Data Analysis Portfolios](https://github.com/jeyukburrito/data_analysis_portfolio)
 
 📈 GitHub 통계 (Github Statistics)
 - 
