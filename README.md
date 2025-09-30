@@ -31,9 +31,10 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-🚀 포트폴리오 (Portfolios)
+🚀 이력서 & 포트폴리오 (Resume & Portfolio)
 - 
-- [Data Analysis Portfolios](https://github.com/jeyukburrito/data_analysis_portfolio)
+- [Resume](https://github.com/jeyukburrito/data_analysis_portfolio/blob/main/%EC%9C%A0%EC%9C%A4%EC%A2%85_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+- [Portfolio](https://github.com/jeyukburrito/data_analysis_portfolio)
 
 📈 GitHub 통계 (Github Statistics)
 - 
