@@ -36,11 +36,6 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 - [Resume](https://github.com/jeyukburrito/data_analysis_portfolio/blob/main/%EC%9C%A0%EC%9C%A4%EC%A2%85_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 - [Portfolio](https://github.com/jeyukburrito/data_analysis_portfolio)
 
-📈 GitHub 통계 (Github Statistics)
-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyukburrito)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ✉️ Contact
 -
