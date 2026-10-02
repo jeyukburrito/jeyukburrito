@@ -11,21 +11,21 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 🛠️ 기술 스택 (Tech Stack)
 -
 
-#### 🖥️ 주요 기술 스택 (Primary Tech Stack)  
+#### 🖥️ 주요 도구 (Main Tools)  
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/google%20bigquery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white)
 
 
 #### 🌱 사용 경험 & 학습 중인 기술 (Experience & Learning)
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/google%20bigquery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -44,4 +44,4 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 - 💼 [LinkedIn](https://www.linkedin.com/in/%EC%9C%A4%EC%A2%85-%EC%9C%A0-4228a722a/)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?url=https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
