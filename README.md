@@ -15,7 +15,6 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/google%20bigquery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white)
@@ -24,6 +23,8 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 #### 🌱 사용 경험 & 학습 중인 기술 (Experience & Learning)
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![DuckDB](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,7 +42,7 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 
 - 📧 Email: yooyoon97@gmail.com
 - 🗒️ [Velog](https://velog.io/@jeyukburrito/posts)
-- 💼 [LinkedIn](https://www.linkedin.com/in/%EC%9C%A4%EC%A2%85-%EC%9C%A0-4228a722a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/%EC%9C%A4%EC%A2종-%EC%9C%A0-4228a722a/)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
