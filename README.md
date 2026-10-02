@@ -44,4 +44,4 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 - 💼 [LinkedIn](https://www.linkedin.com/in/%EC%9C%A4%EC%A2%85-%EC%9C%A0-4228a722a/)
 
 
-<img src="https://capsule-render.vercel.app/api?url=https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
