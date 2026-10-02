@@ -33,7 +33,7 @@ Currently seeking my first role as a data analyst, I’m honing my ability to de
 🚀 이력서 & 포트폴리오 (Resume & Portfolio)
 - 
 - [Resume](https://github.com/jeyukburrito/data_analysis_portfolio/blob/main/%EC%9C%A0%EC%9C%A4%EC%A2%85_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
-- [Portfolio](https://github.com/jeyukburrito/data_analysis_portfolio)
+- [Portfolio](https://github.com/jeyukburrito/data_analysis_portfolio/blob/main/%EC%9C%A0%EC%9C%A4%EC%A2%85_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 
 ✉️ Contact
